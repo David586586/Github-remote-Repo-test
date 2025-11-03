@@ -1,1 +1,3 @@
 git init für denn start
+git add <file>
+git commit -m "yuor commit massage"
